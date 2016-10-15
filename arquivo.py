@@ -5,4 +5,5 @@ class NovaClasse:
     def __init__(self):
         print("Essa é uma classe nova!")
 
+classe = NovaClasse()
 
